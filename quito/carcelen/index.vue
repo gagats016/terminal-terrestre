@@ -9,8 +9,8 @@
           </v-flex>
           <v-flex xs12 m12 mt-5>
             <blockquote class="blockquote mx-0 px-0 mb-2">
-              ¿Necesitas saber el horario completo de salida de los buses del Terminal Terrestre Quito Carcelén? Buscarfly, les presenta un listado completo de los destinos y frecuencias de las diferentes Cooperativas de Transporte que prestan sus servicios en el Terminal Terrestre Quito Carcelén.<br/>
-              En el terminal terrestre de Quito Carcelén, en la actualidad, existen 93 cooperativas de transporte. Desde el terminal se puede tomar buses interparroquiales o interprovinciales y así, ir de Quito a Guayaquil, de Quito a Loja o de Quito a Otavalo.  
+              ¿Necesitas saber el horario completo de salida de los buses del Terminal Terrestre Quito Carcelén? Buscarfly, les presenta un listado completo de los destinos y frecuencias de las diferentes Cooperativas de Transporte que prestan sus servicios en el Terminal Terrestre Carcelén.<br/>
+              En el terminal Carcelén, en la actualidad, existen 29 cooperativas de transporte. Desde el terminal se puede tomar buses interparroquiales o interprovinciales y así, ir de Quito Carcelén a Guayaquil, de Quito Carcelén a Loja o de Quito Carcelén a Otavalo.  
             </blockquote>
           </v-flex>   
 <!--            <v-flex xs12 md6 pl-4>
@@ -29,7 +29,7 @@
           </v-flex>  
           <v-flex xs12>
             <blockquote class="blockquote mx-0 px-0 mb-2">
-              El terminal Quitumbe, estando lejos del centro histórico, no es recomendado ir a pie, pero se puede llegar con facilidad en transporte público, tal como en bus urbano con las lineas : T. Carcelén - T. Norte, T. La Ofelia - Terminal Carcelén, T. Río Coca  -  Eloy Alfaro - Carapungo o en metro.<br/>
+              El terminal Carcelén, estando lejos del centro histórico, no es recomendado ir a pie, pero se puede llegar con facilidad en transporte público, tal como en bus urbano con las lineas : Terminal Carcelén - Terminal Norte, Terminal La Ofelia - Terminal Carcelén, Terminal Río Coca  -  Eloy Alfaro - Carapungo; el pasaje de bus tiene un costo de 0,25$.<br/>
               También se puede llegar en carro, que sea particular o en taxi. 
             </blockquote>
           </v-flex>       
@@ -536,14 +536,169 @@
           </blockquote>
            </v-flex>   
           <v-flex text-xs-center xs12 class="text-left" mt-5>
-            <span class="title">Rutas desde Lago Agrio de la cooperativa de transporte Putumayo: </span>
+            <span class="title">Rutas desde Quito Carcelén de la cooperativa de transporte Putumayo: </span>
             <blockquote class="blockquote mx-0 px-0 mb-2">
-              Lago Agrio - Otavalo  - Ibarra - Tulcán </br>
-              Lago Agrio - Quito Carcelén </br>
-              Lago Agrio - Tena
+              Quito Carcelén - Coca </br>
+              Quito Carcelén - Papallacta - Baeza - El Chaco - Lago Agrio</br>
             </blockquote>
             </v-flex> 
            <v-flex xs12 my-3><v-divider></v-divider></v-flex>
+          <v-flex text-xs-center xs12 class="text-left" mt-5>
+            <router-link to="/search/schedule/reinadelcamino?name=Reina%20del%20Camino">
+            <span class="headline font-weight-bold">Reina del Camino</span>
+          </router-link>
+          </v-flex>    
+          <v-flex text-xs-center xs12 class="text-left">
+            <span class="title">Datos de contacto de la cooperativa Reina del Camino</span>
+          </v-flex>    
+          <v-flex xs12>
+            <blockquote class="blockquote mx-0 px-0 mb-2">
+              <span class="font-weight-bold">Teléfono: </span>02-3824850<br/>
+              <span class="font-weight-bold">Página web: </span><a href="https://reinadelcamino.ec/">https://reinadelcamino.ec/</a><br>
+              <span class="font-weight-bold">Facebook: </span><a href=" https://www.facebook.com/ReinadelCaminoOficial/"> https://www.facebook.com/ReinadelCaminoOficial/</a><br>
+          </blockquote>
+           </v-flex>   
+          <v-flex text-xs-center xs12 class="text-left" mt-5>
+            <span class="title">Rutas desde Quito Carcelén de la cooperativa de transporte Reina del Camino: </span>
+            <blockquote class="blockquote mx-0 px-0 mb-2">
+              Quito Carcelén - Manta
+            </blockquote>
+            </v-flex> 
+          <v-flex xs12 my-3><v-divider></v-divider></v-flex>
+          <v-flex text-xs-center xs12 class="text-left" mt-5>
+            <router-link to="/search/schedule/sancristobal?name=San%20Cristobal">
+            <span class="headline font-weight-bold">San Cristobal</span>
+          </router-link>
+          </v-flex>    
+          <v-flex text-xs-center xs12 class="text-left">
+            <span class="title">Datos de contacto de la cooperativa San Cristobal</span>
+          </v-flex>    
+          <v-flex xs12>
+            <blockquote class="blockquote mx-0 px-0 mb-2">
+              <span class="font-weight-bold">Teléfono: </span>0984810672<br/>
+              <span class="font-weight-bold">Página web: </span><a href="http://microsancristobal.com/">http://microsancristobal.com/</a><br>
+              <span class="font-weight-bold">Facebook: </span><a href="https://www.facebook.com/sancristobal.tulcan/"> https://www.facebook.com/sancristobal.tulcan/</a><br>
+              <span class="font-weight-bold">Correo electrónico: </span>microsc71@gmail.com
+          </blockquote>
+           </v-flex>   
+          <v-flex text-xs-center xs12 class="text-left" mt-5>
+            <span class="title">Rutas desde Quito Carcelén de la cooperativa de transporte San Cristobal: </span>
+            <blockquote class="blockquote mx-0 px-0 mb-2">
+              Quito Carcelén - Tulcán
+            </blockquote>
+            </v-flex> 
+          <v-flex xs12 my-3><v-divider></v-divider></v-flex>
+                    <v-flex text-xs-center xs12 class="text-left" mt-5>
+            <router-link to="/search/schedule/sancristobal?name=San%20Cristobal">
+            <span class="headline font-weight-bold">San Cristobal</span>
+          </router-link>
+          </v-flex>    
+          <v-flex text-xs-center xs12 class="text-left">
+            <span class="title">Datos de contacto de la cooperativa San Cristobal</span>
+          </v-flex>    
+          <v-flex xs12>
+            <blockquote class="blockquote mx-0 px-0 mb-2">
+              <span class="font-weight-bold">Teléfono: </span>0984810672<br/>
+              <span class="font-weight-bold">Página web: </span><a href="http://microsancristobal.com/">http://microsancristobal.com/</a><br>
+              <span class="font-weight-bold">Facebook: </span><a href="https://www.facebook.com/sancristobal.tulcan/"> https://www.facebook.com/sancristobal.tulcan/</a><br>
+              <span class="font-weight-bold">Correo electrónico: </span>microsc71@gmail.com
+          </blockquote>
+           </v-flex>   
+          <v-flex text-xs-center xs12 class="text-left" mt-5>
+            <span class="title">Rutas desde Quito Carcelén de la cooperativa de transporte San Cristobal: </span>
+            <blockquote class="blockquote mx-0 px-0 mb-2">
+              Quito Carcelén - Tulcán
+            </blockquote>
+            </v-flex> 
+          <v-flex xs12 my-3><v-divider></v-divider></v-flex>
+                  <v-flex text-xs-center xs12 class="text-left" mt-5>
+            <router-link to="/search/schedule/sangabriel?name=San%20Gabriel">
+            <span class="headline font-weight-bold">San Gabriel</span>
+          </router-link>
+        </v-flex>    
+          <v-flex text-xs-center xs12 class="text-left">
+            <span class="title">Datos de contacto de la cooperativa San Gabriel</span>
+          </v-flex>    
+          <v-flex xs12>
+            <blockquote class="blockquote mx-0 px-0 mb-2">
+              Sin datos
+              
+          </blockquote>
+           </v-flex>   
+
+          <v-flex text-xs-center xs12 class="text-left" mt-5>
+            <span class="title">Rutas desde Quito Carcelén de la cooperativa San Gabriel: </span>
+            <blockquote class="blockquote mx-0 px-0 mb-2">
+              Quito Carcelén - San Gabriel
+            </blockquote>
+            </v-flex> 
+         <v-flex xs12 my-3><v-divider></v-divider></v-flex>
+          <v-flex text-xs-center xs12 class="text-left" mt-5>
+            <router-link to="/search/schedule/sanpedrito?name=San%20Pedrito">
+            <span class="headline font-weight-bold">San Pedrito</span>
+          </router-link>
+          </v-flex>    
+          <v-flex text-xs-center xs12 class="text-left">
+            <span class="title">Datos de contacto de la cooperativa San Pedrito</span>
+          </v-flex>    
+          <v-flex xs12>
+            <blockquote class="blockquote mx-0 px-0 mb-2">
+              <span class="font-weight-bold">Facebook: </span><a href=" https://www.facebook.com/pages/category/Cargo---Freight-Company/Cooperativa-De-Transporte-Interprovincial-San-Pedrito-747304862063364/"> https://www.facebook.com/pages/category/Cargo---Freight-Company/Cooperativa-De-Transporte-Interprovincial-San-Pedrito-747304862063364/</a><br>
+          </blockquote>
+           </v-flex>   
+          <v-flex text-xs-center xs12 class="text-left" mt-5>
+            <span class="title">Rutas desde Quito Carcelén de la cooperativa de transporte San Pedrito: </span>
+            <blockquote class="blockquote mx-0 px-0 mb-2">
+              Quito Carcelén - Puerto Quito <br>
+              Quito Carcelén - Pachijal <br>
+              Quito Carcelén - Celica 
+            </blockquote>
+            </v-flex> 
+          <v-flex xs12 my-3><v-divider></v-divider></v-flex>
+                    <v-flex text-xs-center xs12 class="text-left" mt-5>
+            <router-link to="/search/schedule/tacaandina?name=TACA%20Andina">
+            <span class="headline font-weight-bold">TACA Andina</span>
+          </router-link>
+          </v-flex>    
+          <v-flex text-xs-center xs12 class="text-left">
+            <span class="title">Datos de contacto de la cooperativa TACA Andina</span>
+          </v-flex>    
+          <v-flex xs12>
+            <blockquote class="blockquote mx-0 px-0 mb-2">
+              <span class="font-weight-bold">Teléfono: </span>099 354 7653<br/>
+              <span class="font-weight-bold">Facebook: </span><a href=" https://www.facebook.com/transportesandina/"> https://www.facebook.com/transportesandina/</a><br>
+              <span class="font-weight-bold">Correo electrónico: </span>transportesandina@gmail.com
+          </blockquote>
+           </v-flex>   
+          <v-flex text-xs-center xs12 class="text-left" mt-5>
+            <span class="title">Rutas desde Quito Carcelén de la cooperativa de transporte TACA Andina: </span>
+            <blockquote class="blockquote mx-0 px-0 mb-2">
+              Quito Carcelén - Ibarra <br>
+              Quito Carcelén - El Angel
+            </blockquote>
+            </v-flex> 
+          <v-flex xs12 my-3><v-divider></v-divider></v-flex>
+                            <v-flex text-xs-center xs12 class="text-left" mt-5>
+            <router-link to="/search/schedule/taxgacela?name=TAX%20Gacela">
+            <span class="headline font-weight-bold">TAX Gacela</span>
+          </router-link>
+          </v-flex>    
+          <v-flex text-xs-center xs12 class="text-left">
+            <span class="title">Datos de contacto de la cooperativa TAX Gacela</span>
+          </v-flex>    
+          <v-flex xs12>
+            <blockquote class="blockquote mx-0 px-0 mb-2">
+              <span class="font-weight-bold">Facebook: </span><a href="https://www.facebook.com/people/Tax-Gacela/100005304288719">https://www.facebook.com/people/Tax-Gacela/100005304288719</a><br>
+
+          </blockquote>
+           </v-flex>   
+          <v-flex text-xs-center xs12 class="text-left" mt-5>
+            <span class="title">Rutas desde Quito Carcelén de la cooperativa de transporte TAX Gacela: </span>
+            <blockquote class="blockquote mx-0 px-0 mb-2">
+              Quito Carcelén - Tulcán
+            </blockquote>
+            </v-flex> 
+          <v-flex xs12 my-3><v-divider></v-divider></v-flex>
            <v-flex text-xs-center xs12 class="text-left" mt-5>
             <router-link to="/search/schedule/tourissanfrancisco?name=Touris%20San%20Francisco">
             <span class="headline font-weight-bold">Touris San Francisco</span>
@@ -554,15 +709,15 @@
           </v-flex>    
           <v-flex xs12>
             <blockquote class="blockquote mx-0 px-0 mb-2">
-              <span class="font-weight-bold">Teléfono: </span>062831211<br/>
+              <span class="font-weight-bold">Teléfono: </span>022480834 / 0999158429<br/>
               <span class="font-weight-bold">Página web: </span><a href="https://www.tourisanfrancisco.com/">https://www.tourisanfrancisco.com/</a><br>
               <span class="font-weight-bold">Facebook: </span><a href=" https://es-la.facebook.com/tourisanfrancisco/"> https://es-la.facebook.com/tourisanfrancisco/</a><br>
           </blockquote>
            </v-flex>   
           <v-flex text-xs-center xs12 class="text-left" mt-5>
-            <span class="title">Rutas desde Lago Agrio de la cooperativa de transporte Touris San Francisco: </span>
+            <span class="title">Rutas desde Quito Carcelén de la cooperativa de transporte Touris San Francisco: </span>
             <blockquote class="blockquote mx-0 px-0 mb-2">
-              Lago Agrio - Zamora
+              Quito Carcelén - Puyo
             </blockquote>
             </v-flex> 
           <v-flex xs12 my-3><v-divider></v-divider></v-flex>
@@ -582,33 +737,36 @@
           </blockquote>
            </v-flex>   
           <v-flex text-xs-center xs12 class="text-left" mt-5>
-            <span class="title">Rutas desde Lago Agrio de la cooperativa de transporte Transesmeraldas: </span>
+            <span class="title">Rutas desde Quito Carcelén de la cooperativa de transporte Transesmeraldas: </span>
             <blockquote class="blockquote mx-0 px-0 mb-2">
-              Lago Agrio - Quito Carcelén - Quito Quitumbe
+              Quito Carcelén - Atacames<br>
+              Quito Carcelén - Esmeraldas<br>
+              Quito Carcelén - Lago Agrio - Coca<br>
+              Quito Carcelén - Machala - Huaquillas<br>
+              Quito Carcelén - Manta<br>
+              Quito Carcelén - San Lorenzo <br>
+              Quito Carcelén - Tulcán
             </blockquote>
             </v-flex> 
             <v-flex xs12 my-3><v-divider></v-divider></v-flex>
            <v-flex text-xs-center xs12 class="text-left" mt-5>
-            <router-link to="/search/schedule/zaracay?name=Zaracay">
-            <span class="headline font-weight-bold">Zaracay</span>
+            <router-link to="/search/schedule/velotaxdelnorte?name=Velotax%20del%20Norte">
+            <span class="headline font-weight-bold">Velotax Norte</span>
           </router-link>
           </v-flex>    
           <v-flex text-xs-center xs12 class="text-left">
-            <span class="title">Datos de contacto de la cooperativa Zaracay</span>
+            <span class="title">Datos de contacto de la cooperativa Velotax Norte</span>
           </v-flex>    
           <v-flex xs12>
             <blockquote class="blockquote mx-0 px-0 mb-2">
-              <span class="font-weight-bold">Teléfono: </span>062830681<br/>
-              <span class="font-weight-bold">Página web: </span><a href="http://www.transporteszaracay.com.ec/">http://www.transporteszaracay.com.ec/</a><br>
-              <span class="font-weight-bold">Facebook: </span><a href="https://es-la.facebook.com/oficialtransporteszaracay/"> https://es-la.facebook.com/oficialtransporteszaracay/</a><br>
+              <span class="font-weight-bold">Facebook: </span><a href="https://es-la.facebook.com/pages/category/Cargo---Freight-Company/Velotax-SA-195962124071735/">https://es-la.facebook.com/pages/category/Cargo---Freight-Company/Velotax-SA-195962124071735/</a><br>
+               <span class="font-weight-bold">Correo electrónico: </span>velotaxsa6200@gmail.com
           </blockquote>
            </v-flex>   
           <v-flex text-xs-center xs12 class="text-left" mt-5>
-            <span class="title">Rutas desde Lago Agrio de la cooperativa de transporte Zaracay: </span>
+            <span class="title">Rutas desde Quito Carcelén de la cooperativa de transporte Velotax Norte: </span>
             <blockquote class="blockquote mx-0 px-0 mb-2">
-              Lago Agrio - Santo Domingo - Quinindé - La Concordia <br/>
-              Lago Agrio - Santo Domingo - Chone - Manta <br/>
-              Lago Agrio - Santo Domingo - Quevedo - Guayaquil
+              Quito Carcelén - Tulcán
             </blockquote>
             </v-flex> 
           <v-flex xs12>
