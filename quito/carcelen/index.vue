@@ -587,31 +587,9 @@
               Quito Carcelén - Tulcán
             </blockquote>
             </v-flex> 
+
           <v-flex xs12 my-3><v-divider></v-divider></v-flex>
-                    <v-flex text-xs-center xs12 class="text-left" mt-5>
-            <router-link to="/search/schedule/sancristobal?name=San%20Cristobal">
-            <span class="headline font-weight-bold">San Cristobal</span>
-          </router-link>
-          </v-flex>    
-          <v-flex text-xs-center xs12 class="text-left">
-            <span class="title">Datos de contacto de la cooperativa San Cristobal</span>
-          </v-flex>    
-          <v-flex xs12>
-            <blockquote class="blockquote mx-0 px-0 mb-2">
-              <span class="font-weight-bold">Teléfono: </span>0984810672<br/>
-              <span class="font-weight-bold">Página web: </span><a href="http://microsancristobal.com/">http://microsancristobal.com/</a><br>
-              <span class="font-weight-bold">Facebook: </span><a href="https://www.facebook.com/sancristobal.tulcan/"> https://www.facebook.com/sancristobal.tulcan/</a><br>
-              <span class="font-weight-bold">Correo electrónico: </span>microsc71@gmail.com
-          </blockquote>
-           </v-flex>   
-          <v-flex text-xs-center xs12 class="text-left" mt-5>
-            <span class="title">Rutas desde Quito Carcelén de la cooperativa de transporte San Cristobal: </span>
-            <blockquote class="blockquote mx-0 px-0 mb-2">
-              Quito Carcelén - Tulcán
-            </blockquote>
-            </v-flex> 
-          <v-flex xs12 my-3><v-divider></v-divider></v-flex>
-                  <v-flex text-xs-center xs12 class="text-left" mt-5>
+            <v-flex text-xs-center xs12 class="text-left" mt-5>
             <router-link to="/search/schedule/sangabriel?name=San%20Gabriel">
             <span class="headline font-weight-bold">San Gabriel</span>
           </router-link>
@@ -621,11 +599,9 @@
           </v-flex>    
           <v-flex xs12>
             <blockquote class="blockquote mx-0 px-0 mb-2">
-              Sin datos
-              
+              Sin datos   
           </blockquote>
            </v-flex>   
-
           <v-flex text-xs-center xs12 class="text-left" mt-5>
             <span class="title">Rutas desde Quito Carcelén de la cooperativa San Gabriel: </span>
             <blockquote class="blockquote mx-0 px-0 mb-2">
@@ -671,7 +647,7 @@
           </blockquote>
            </v-flex>   
           <v-flex text-xs-center xs12 class="text-left" mt-5>
-            <span class="title">Rutas desde Quito Carcelén de la cooperativa de transporte TACA Andina: </span>
+            <span class="title">Rutas desde Quito Carcelén de la cooperativa TACA Andina: </span>
             <blockquote class="blockquote mx-0 px-0 mb-2">
               Quito Carcelén - Ibarra <br>
               Quito Carcelén - El Angel
@@ -693,7 +669,7 @@
           </blockquote>
            </v-flex>   
           <v-flex text-xs-center xs12 class="text-left" mt-5>
-            <span class="title">Rutas desde Quito Carcelén de la cooperativa de transporte TAX Gacela: </span>
+            <span class="title">Rutas desde Quito Carcelén de la cooperativa TAX Gacela: </span>
             <blockquote class="blockquote mx-0 px-0 mb-2">
               Quito Carcelén - Tulcán
             </blockquote>
@@ -715,7 +691,7 @@
           </blockquote>
            </v-flex>   
           <v-flex text-xs-center xs12 class="text-left" mt-5>
-            <span class="title">Rutas desde Quito Carcelén de la cooperativa de transporte Touris San Francisco: </span>
+            <span class="title">Rutas desde Quito Carcelén de la cooperativa Touris San Francisco: </span>
             <blockquote class="blockquote mx-0 px-0 mb-2">
               Quito Carcelén - Puyo
             </blockquote>
@@ -737,7 +713,7 @@
           </blockquote>
            </v-flex>   
           <v-flex text-xs-center xs12 class="text-left" mt-5>
-            <span class="title">Rutas desde Quito Carcelén de la cooperativa de transporte Transesmeraldas: </span>
+            <span class="title">Rutas desde Quito Carcelén de la cooperativa Transesmeraldas: </span>
             <blockquote class="blockquote mx-0 px-0 mb-2">
               Quito Carcelén - Atacames<br>
               Quito Carcelén - Esmeraldas<br>
@@ -764,7 +740,7 @@
           </blockquote>
            </v-flex>   
           <v-flex text-xs-center xs12 class="text-left" mt-5>
-            <span class="title">Rutas desde Quito Carcelén de la cooperativa de transporte Velotax Norte: </span>
+            <span class="title">Rutas desde Quito Carcelén de la cooperativa Velotax Norte: </span>
             <blockquote class="blockquote mx-0 px-0 mb-2">
               Quito Carcelén - Tulcán
             </blockquote>
