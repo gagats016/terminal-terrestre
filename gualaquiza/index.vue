@@ -5,19 +5,19 @@
       <v-container fill-height style="max-width: 850px !important">
         <v-layout row wrap justify-center class="container-lg">
           <v-flex text-xs-center xs12 mt-5 class="text-center">
-            <span class="display-2 secondary--text font-weight-bold">Terminal terrestre de Lago Agrio</span>
+            <span class="display-2 secondary--text font-weight-bold">Terminal terrestre de Gualaquiza</span>
           </v-flex>
           <v-flex xs12 m12 mt-5>
             <blockquote class="blockquote mx-0 px-0 mb-2">
-              ¿Necesitas saber el horario completo de salida de los buses del Terminal de Lago Agrio? Buscarfly les presenta un listado completo de los destinos y frecuencias de las diferentes cooperativas de transporte que prestan sus servicios en el Terminal Terrestre de Nueva Loja.<br/>
-              En el terminal terrestre de Nueva Loja, en la actualidad, existen 10 cooperativas de transporte. Desde el terminal se puede tomar buses interparroquiales o interprovinciales y así, ir de Lago Agrio a Quito o de Lago Agrio a Guayaquil. 
+              ¿Necesitas saber el horario completo de salida de los buses del Terminal de Gualaquiza? Buscarfly les presenta un listado completo de los destinos y frecuencias de las diferentes cooperativas de transporte que prestan sus servicios en el Terminal Terrestre de Gualaquiza.<br/>
+              En el terminal terrestre de Gualaquiza, en la actualidad, existen 10 cooperativas de transporte. Desde el terminal se puede tomar buses interparroquiales o interprovinciales y así, ir de Gualaquiza a Quito, de Gualaquiza a Cuenca o de Gualaquiza a Loja. 
             </blockquote>
           </v-flex>   
 <!--            <v-flex xs12 md6 pl-4>
               <img width="100%" src="~/static/img/terminal-terrestre/terminal-terrestre-lago-agrio.jpg" style="border-radius: 50%"></img>
            </v-flex> -->                 
           <v-flex text-xs-center xs12  class="text-left" mt-5>
-            <span class="headline font-weight-bold">Ubicación del terminal de Lago Agrio</span>
+            <span class="headline font-weight-bold">Ubicación del terminal de Gualaquiza</span>
           </v-flex>  
           <v-flex xs12>
             <blockquote class="blockquote mx-0 px-0 mb-2">
@@ -25,108 +25,94 @@
             </blockquote>
           </v-flex>  
           <v-flex text-xs-center xs12  class="text-left" mt-5>
-            <span class="headline font-weight-bold">¿Cómo llegar al terminal terrestre de Lago Agrio?</span>
+            <span class="headline font-weight-bold">¿Cómo llegar al terminal terrestre de Gualaquiza?</span>
           </v-flex>  
           <v-flex xs12>
             <blockquote class="blockquote mx-0 px-0 mb-2">
-              Llegar al terminal terrestre de Nueva Loja es fácil puesto que Nueva Loja no es una ciudad muy grande y sus lugares se encuentran en distancias cercanas.<br/>
-              Puede llegar a pie, bus urbano o también en taxi, es posible tomar un taxi desde cualquier punto de la ciudad, por lo tanto, su tarifa varía de acuerdo con la distancia. 
+              Llegar al terminal terrestre de Gualaquiza es fácil puesto que no es una ciudad muy grande y sus lugares se encuentran en distancias cercanas.<br/>
+              Puede llegar a pie o también en tax; es posible tomar uno desde cualquier punto de la ciudad, por lo tanto, su tarifa varía de acuerdo con la distancia. 
             </blockquote>
           </v-flex>       
           <v-flex text-xs-center xs12  class="text-left" mt-5>
-            <span class="headline font-weight-bold">Destinos, frecuencias, y datos de las cooperativas de transporte del terminal Lago Agrio</span>
+            <span class="headline font-weight-bold">Destinos, frecuencias, y datos de las cooperativas de transporte del terminal Gualaquiza</span>
           </v-flex>  
           <v-flex xs12>
             <blockquote class="blockquote mx-0 px-0 mb-2">
-              A continuación, le presentaremos todas las cooperativas de transporte del terminal Lago Agrio, así que sus destinos y frecuencias (haga clic sobre la cooperativa para que aparezca sus horarios/turnos de salida de buses).
+              A continuación, le presentaremos todas las cooperativas de transporte del terminal Gualaquiza, así que sus destinos y frecuencias (haga clic sobre la cooperativa para que aparezca sus horarios/turnos de salida de buses).
             </blockquote>
           </v-flex>                          
           <v-flex text-xs-center xs12 class="text-left" mt-5>
-            <router-link to="/search/schedule/banos?name=Baños">
-            <span class="headline font-weight-bold">Baños</span>
+            <router-link to="/search/schedule/16deagosto?name=16%20de%20Agosto">
+            <span class="headline font-weight-bold">16 de Agosto</span>
           </router-link>
           </v-flex>    
           <v-flex text-xs-center xs12 class="text-left">
-            <span class="title">Datos de contacto de la cooperativa Baños</span>
+            <span class="title">Datos de contacto de la cooperativa 16 de Agosto</span>
           </v-flex>    
           <v-flex xs12>
             <blockquote class="blockquote mx-0 px-0 mb-2">
-              <span class="font-weight-bold">Teléfono: </span> 03 392 - 0215 ext. 4113  0986520213<br/>
+              <span class="font-weight-bold">Teléfono: </span>07-2780156<br/>
               
-              <span class="font-weight-bold">Página web: </span><a href="http://www.cooperativabanos.com.ec">http://www.cooperativabanos.com.ec/</a><br>
+              <span class="font-weight-bold">Página web: </span><a href="https://www.cooperativa16deagosto.com/">https://www.cooperativa16deagosto.com/</a><br>
 
-              <span class="font-weight-bold">Facebook: </span><a href="https://www.facebook.com/cooperativadetransportesbanos">https://www.facebook.com/cooperativadetransportesbanos/</a><br>              
-              
-               <span class="font-weight-bold">Correo electrónico: </span>info@cooperativabanos.com.ec
+              <span class="font-weight-bold">Facebook: </span><a href="https://www.facebook.com/coop16deagosto/">https://www.facebook.com/coop16deagosto/</a><br>
+               <span class="font-weight-bold">Correo electrónico: </span>cooperativa16deagosto@hotmail.com
           </blockquote>
            </v-flex>   
-
           <v-flex text-xs-center xs12 class="text-left" mt-5>
-            <span class="title">Rutas desde Lago Agrio de la cooperativa de transporte Baños: </span>
+            <span class="title">Rutas desde Gualaquiza de la cooperativa 16 de Agosto: </span>
             <blockquote class="blockquote mx-0 px-0 mb-2">
-              Lago Agrio - Quito Quitumbe </br>
-              Lago Agrio - Quito Carcelén - Quito Quitumbe 
+              Gualaquiza - Cuenca<br>
+              Gualaquiza - Loja<br>
+              Gualaquiza - Macas
             </blockquote>
           </v-flex> 
           <v-flex xs12 my-3><v-divider></v-divider></v-flex> 
+
         <v-flex text-xs-center xs12 class="text-left">
-            <router-link to="/search/schedule/carlosalbertoaray?name=Carlos%20Alberto%20Aray">
-            <span class="headline font-weight-bold">Carlos Alberto Aray</span>
+            <router-link to="/search/schedule/centineladeloriente?name=Centinela%20del%20Oriente">
+            <span class="headline font-weight-bold">Centinela del Oriente</span>
           </router-link>
         </v-flex>    
           <v-flex text-xs-center xs12 class="text-left">
-            <span class="title">Datos de contacto de la cooperativa Carlos Alberto Aray</span>
+            <span class="title">Datos de contacto de la cooperativa Centinela del Oriente</span>
           </v-flex>    
           <v-flex xs12>
             <blockquote class="blockquote mx-0 px-0 mb-2">
-              <span class="font-weight-bold">Teléfono: </span>0990698101<br/>
-              
-
-              <span class="font-weight-bold">Facebook:</span><a href="https://www.facebook.com/Transportes-de-Pasajeros-y-Encomiendas-Carlos-Alberto-Aray-101399428292118/">https://www.facebook.com/Transportes-de-Pasajeros-y-Encomiendas-Carlos-Alberto-Aray-101399428292118/</a><br>              
-              
+              <span class="font-weight-bold">Teléfono: </span>07 2780156<br/>
+              <span class="font-weight-bold">Página web: </span><a href="http://www.centineladeloriente.com.ec/">http://www.centineladeloriente.com.ec/</a><br>
+              <span class="font-weight-bold">Facebook:</span><a href="https://www.facebook.com/israel19985626135/">https://www.facebook.com/israel19985626135/</a><br>              
           </blockquote>
            </v-flex>    
           <v-flex text-xs-center xs12 class="text-left">
-            <span class="title">Rutas desde Lago Agrio de la cooperativa de transporte Carlos Alberto Aray: </span>
+            <span class="title">Rutas desde Gualaquiza de la cooperativa Centinela del Oriente: </span>
             <blockquote class="blockquote mx-0 px-0 mb-2">
-            Lago Agrio - Manta
+            Gualaquiza - Quito
             </blockquote>
           </v-flex>  
-          <v-flex xs12 my-3><v-divider></v-divider></v-flex> 
-        <v-flex text-xs-center xs12 class="text-left">
-            <span class="headline font-weight-bold">Ciudad del Coca</span>
-        </v-flex>    
-            <blockquote class="blockquote mx-0 px-0 mb-2">
-              Sin información.
-            </blockquote>
-          </v-flex>  
-         <v-flex xs12 my-3><v-divider></v-divider></v-flex> 
+          <v-flex xs12 my-3><v-divider></v-divider></v-flex>  
                   <v-flex text-xs-center xs12 class="text-left" mt-5>
-            <router-link to="/search/schedule/jumandy?name=Jumandy">
-            <span class="headline font-weight-bold">Jumandy</span>
+            <router-link to="/search/schedule/flotacenepa?name=Flota%20Cenepa">
+            <span class="headline font-weight-bold">Flota Cenepa</span>
           </router-link>
           </v-flex>    
           <v-flex text-xs-center xs12 class="text-left">
-            <span class="title">Datos de contacto de la cooperativa Jumandy</span>
+            <span class="title">Datos de contacto de la cooperativa Flota Cenepa</span>
           </v-flex>    
           <v-flex xs12>
             <blockquote class="blockquote mx-0 px-0 mb-2">
-              
-              <span class="font-weight-bold">Página web: </span><a href="https://coopjumandy.webs.com/rutas">https://coopjumandy.webs.com/rutas</a><br>
-
-              <span class="font-weight-bold">Facebook: </span><a href="https://www.facebook.com/coopjumandy.jumandy">https://www.facebook.com/coopjumandy.jumandy/</a><br>              
-              
+              <span class="font-weight-bold">Teléfono: </span>0995495609<br/>
+              <span class="font-weight-bold">Facebook: </span><a href=" https://www.facebook.com/flota.cenepa/"> https://www.facebook.com/flota.cenepa/</a><br>                  
           </blockquote>
            </v-flex>   
-
           <v-flex text-xs-center xs12 class="text-left" mt-5>
-            <span class="title">Rutas desde Lago Agrio de la cooperativa de transporte Jumandy: </span>
+            <span class="title">Rutas desde Gualaquiza de la cooperativa Flota Cenepa: </span>
             <blockquote class="blockquote mx-0 px-0 mb-2">
-              Lago Agrio - Tena </br>
-              Lago Agrio - Puyo
+              Gualaquiza - Cuenca
             </blockquote>
             </v-flex> 
             <v-flex xs12 my-3><v-divider></v-divider></v-flex> 
+
            <v-flex text-xs-center xs12 class="text-left" mt-5>
             <router-link to="/search/schedule/loja?name=Loja">
             <span class="headline font-weight-bold">Loja</span>
@@ -137,74 +123,90 @@
           </v-flex>    
           <v-flex xs12>
             <blockquote class="blockquote mx-0 px-0 mb-2">
-              <span class="font-weight-bold">Teléfono: </span>062831570<br/>
-              
               <span class="font-weight-bold">Página web: </span><a href="https://cooperativaloja.com.ec/">https://cooperativaloja.com.ec/</a><br>
-
               <span class="font-weight-bold">Facebook: </span><a href="https://www.facebook.com/CoopLoja/">https://www.facebook.com/CoopLoja//</a><br>             
-              
           </blockquote>
            </v-flex>   
-
           <v-flex text-xs-center xs12 class="text-left" mt-5>
-            <span class="title">Rutas desde Lago Agrio de la cooperativa de transporte Loja: </span>
+            <span class="title">Rutas desde Gualaquiza  de la cooperativa Loja: </span>
             <blockquote class="blockquote mx-0 px-0 mb-2">
-              Lago Agrio - Loja </br>
-              Lago Agrio - Quito Quitumbe </br>
-              Lago Agrio - Guayaquil
+              Gualaquiza  - Loja 
             </blockquote>
             </v-flex> 
 
            <v-flex xs12 my-3><v-divider></v-divider></v-flex>
           <v-flex text-xs-center xs12 class="text-left" mt-5>
-            <router-link to="/search/schedule/petrolerashushufindi?name=Petrolera%20Shushufindi">
-            <span class="headline font-weight-bold">Petrolera Shushufindi</span>
+            <router-link to="/search/schedule/nambija?name=Nambija">
+            <span class="headline font-weight-bold">Nambija</span>
           </router-link>
           </v-flex>    
           <v-flex text-xs-center xs12 class="text-left">
-            <span class="title">Datos de contacto de la cooperativa Petrolera Shushufindi</span>
+            <span class="title">Datos de contacto de la cooperativa Nambija</span>
           </v-flex>    
           <v-flex xs12>
             <blockquote class="blockquote mx-0 px-0 mb-2">
-              <span class="font-weight-bold">Teléfono: </span>062839210 / 062839129 <br/>
-              
-              <span class="font-weight-bold">Facebook: </span><a href="https://www.facebook.com/petrolerashushufindi/">https://www.facebook.com/petrolerashushufindi/</a><br>             
-              
+              <span class="font-weight-bold">Teléfono: </span>072781810<br/>
+              <span class="font-weight-bold">Página web: </span><a href=" http://www.cooperativanambija.com.ec/"> http://www.cooperativanambija.com.ec/</a><br>
+              <span class="font-weight-bold">Facebook: </span><a href="https://www.facebook.com/coopnambija">https://www.facebook.com/coopnambija</a><br>             
           </blockquote>
            </v-flex>   
           <v-flex text-xs-center xs12 class="text-left" mt-5>
-            <span class="title">Rutas desde Lago Agrio de la cooperativa de transporte Petrolera Shushufindi: </span>
+            <span class="title">Rutas desde Gualaquiza de la cooperativa Nambija: </span>
             <blockquote class="blockquote mx-0 px-0 mb-2">
-              Lago Agrio - Sacha - Coca </br>
-              Lago Agrio - Puerto El Carmen
+              Gualaquiza - Guayaquil<br> 
+              Gualaquiza - Loja
             </blockquote>
             </v-flex> 
          <v-flex xs12 my-3><v-divider></v-divider></v-flex>
+
            <v-flex text-xs-center xs12 class="text-left" mt-5>
-            <router-link to="/search/schedule/putumayo?name=Putumayo">
-            <span class="headline font-weight-bold">Putumayo</span>
+            <router-link to="/search/schedule/orientrut?name=Orient%20Rut">
+            <span class="headline font-weight-bold">Orient Rut</span>
           </router-link>
           </v-flex>    
           <v-flex text-xs-center xs12 class="text-left">
-            <span class="title">Datos de contacto de la cooperativa Putumayo</span>
+            <span class="title">Datos de contacto de la cooperativa Orient Rut</span>
           </v-flex>    
           <v-flex xs12>
             <blockquote class="blockquote mx-0 px-0 mb-2">
-              <span class="font-weight-bold">Teléfono: </span>062-833-819<br/>
-
-              <span class="font-weight-bold">Facebook: </span><a href="https://www.facebook.com/pages/category/Cargo---Freight-Company/Cooperativa-de-Transportes-Putumayo-481755651878556/">https://www.facebook.com/pages/category/Cargo---Freight-Company/Cooperativa-de-Transportes-Putumayo-481755651878556//</a><br>             
-                             <span class="font-weight-bold">Correo electrónico: </span>coop.putumayo@hotmail.com
+              <span class="font-weight-bold">Teléfono: </span>0988984034<br/>
+              <span class="font-weight-bold">Facebook: </span><a href="https://www.facebook.com/Orient-Rut-SA-1219384671566585/">https://www.facebook.com/Orient-Rut-SA-1219384671566585/</a><br>
+              <span class="font-weight-bold">Correo electrónico: </span>orientrut@hotmail.com
           </blockquote>
            </v-flex>   
           <v-flex text-xs-center xs12 class="text-left" mt-5>
-            <span class="title">Rutas desde Lago Agrio de la cooperativa de transporte Putumayo: </span>
+            <span class="title">Rutas desde Gualaquiza de la cooperativa Orient Rut: </span>
             <blockquote class="blockquote mx-0 px-0 mb-2">
-              Lago Agrio - Otavalo  - Ibarra - Tulcán </br>
-              Lago Agrio - Quito Carcelén </br>
-              Lago Agrio - Tena
+              Gualaquiza - Limón - Méndez - Macas - Río Palora </br>
+              Gualaquiza - Limón - Méndez - Macas - Taisha
             </blockquote>
             </v-flex> 
            <v-flex xs12 my-3><v-divider></v-divider></v-flex>
+
+           <v-flex text-xs-center xs12 class="text-left" mt-5>
+            <router-link to="/search/schedule/sucua?name=Sucua">
+            <span class="headline font-weight-bold">Sucúa</span>
+          </router-link>
+          </v-flex>    
+          <v-flex text-xs-center xs12 class="text-left">
+            <span class="title">Datos de contacto de la cooperativa Sucúa</span>
+          </v-flex>    
+          <v-flex xs12>
+            <blockquote class="blockquote mx-0 px-0 mb-2">
+              <span class="font-weight-bold">Página web: </span><a href="https://cooperativasucua.com/">https://cooperativasucua.com/</a><br>
+              <span class="font-weight-bold">Facebook: </span><a href="https://www.facebook.com/coop.sucua?__tn__=%2Cd*F*F-R&eid=ARCJwssxncbEMRtKpL2dyOU4bqxcCICXF-XP5SJXHcTQJkhcLmk7ljYFKueYf6fCVkNKPEW1UnSsiEVl&tn-str=*F">https://www.facebook.com/coop.sucua?__tn__=%2Cd*F*F-R&eid=ARCJwssxncbEMRtKpL2dyOU4bqxcCICXF-XP5SJXHcTQJkhcLmk7ljYFKueYf6fCVkNKPEW1UnSsiEVl&tn-str=*F</a><br>
+              <span class="font-weight-bold">Correo electrónico: </span>coopsucua09@hotmail.com
+          </blockquote>
+           </v-flex>   
+          <v-flex text-xs-center xs12 class="text-left" mt-5>
+            <span class="title">Rutas desde Gualaquiza de la cooperativa Sucúa: </span>
+            <blockquote class="blockquote mx-0 px-0 mb-2">
+              Gualaquiza - Méndez - Limón - Macas<br>
+              Gualaquiza - Yantzaza - Zamora
+            </blockquote>
+            </v-flex> 
+          <v-flex xs12 my-3><v-divider></v-divider></v-flex>
+
            <v-flex text-xs-center xs12 class="text-left" mt-5>
             <router-link to="/search/schedule/tourissanfrancisco?name=Touris%20San%20Francisco">
             <span class="headline font-weight-bold">Touris San Francisco</span>
@@ -215,61 +217,61 @@
           </v-flex>    
           <v-flex xs12>
             <blockquote class="blockquote mx-0 px-0 mb-2">
-              <span class="font-weight-bold">Teléfono: </span>062831211<br/>
-              <span class="font-weight-bold">Página web: </span><a href="https://www.tourisanfrancisco.com/">https://www.tourisanfrancisco.com/</a><br>
-              <span class="font-weight-bold">Facebook: </span><a href=" https://es-la.facebook.com/tourisanfrancisco/"> https://es-la.facebook.com/tourisanfrancisco/</a><br>
+              <span class="font-weight-bold">Teléfono: </span>072782044<br/>
+              <span class="font-weight-bold">Celular: </span>0991356000<br/>
+              <span class="font-weight-bold">Página web: </span><a href="https://www.tourisanfrancisco.com/ ">https://www.tourisanfrancisco.com/</a><br>
+              <span class="font-weight-bold">Facebook: </span><a href="https://www.facebook.com/tourisanfrancisco">https://www.facebook.com/tourisanfrancisco</a><br>
           </blockquote>
            </v-flex>   
           <v-flex text-xs-center xs12 class="text-left" mt-5>
-            <span class="title">Rutas desde Lago Agrio de la cooperativa de transporte Touris San Francisco: </span>
+            <span class="title">Rutas desde Gualaquiza de la cooperativa Touris San Francisco: </span>
             <blockquote class="blockquote mx-0 px-0 mb-2">
-              Lago Agrio - Zamora
-            </blockquote>
-            </v-flex> 
-          <v-flex xs12 my-3><v-divider></v-divider></v-flex>
-           <v-flex text-xs-center xs12 class="text-left" mt-5>
-            <router-link to="/search/schedule/transesmeraldas?name=Transesmeraldas">
-            <span class="headline font-weight-bold">Transesmeraldas</span>
-          </router-link>
-          </v-flex>    
-          <v-flex text-xs-center xs12 class="text-left">
-            <span class="title">Datos de contacto de la cooperativa Transesmeraldas</span>
-          </v-flex>    
-          <v-flex xs12>
-            <blockquote class="blockquote mx-0 px-0 mb-2">
-              <span class="font-weight-bold">Teléfono: </span>+593 23922300 ext. 475<br/>
-              <span class="font-weight-bold">Página web: </span><a href="https://www.transesmeraldas.com/">https://www.transesmeraldas.com/</a><br>
-              <span class="font-weight-bold">Facebook: </span><a href="https://www.facebook.com/transesmeraldas/"> https://www.facebook.com/transesmeraldas/</a><br>
-          </blockquote>
-           </v-flex>   
-          <v-flex text-xs-center xs12 class="text-left" mt-5>
-            <span class="title">Rutas desde Lago Agrio de la cooperativa de transporte Transesmeraldas: </span>
-            <blockquote class="blockquote mx-0 px-0 mb-2">
-              Lago Agrio - Quito Carcelén - Quito Quitumbe
+              Gualaquiza - Lago Agrio<br>
+              Gualaquiza - Macas - Baños -  Quito Quitumbe
             </blockquote>
             </v-flex> 
             <v-flex xs12 my-3><v-divider></v-divider></v-flex>
+
            <v-flex text-xs-center xs12 class="text-left" mt-5>
-            <router-link to="/search/schedule/zaracay?name=Zaracay">
-            <span class="headline font-weight-bold">Zaracay</span>
+            <router-link to="/search/schedule/turismooriental?name=Turismo%20Oriental">
+            <span class="headline font-weight-bold">Turismo Oriental</span>
           </router-link>
           </v-flex>    
           <v-flex text-xs-center xs12 class="text-left">
-            <span class="title">Datos de contacto de la cooperativa Zaracay</span>
+            <span class="title">Datos de contacto de la cooperativa Turismo Oriental</span>
           </v-flex>    
           <v-flex xs12>
             <blockquote class="blockquote mx-0 px-0 mb-2">
-              <span class="font-weight-bold">Teléfono: </span>062830681<br/>
-              <span class="font-weight-bold">Página web: </span><a href="http://www.transporteszaracay.com.ec/">http://www.transporteszaracay.com.ec/</a><br>
-              <span class="font-weight-bold">Facebook: </span><a href="https://es-la.facebook.com/oficialtransporteszaracay/"> https://es-la.facebook.com/oficialtransporteszaracay/</a><br>
+              <span class="font-weight-bold">Página web: </span><a href="http://www.turismooriental.ec/">http://www.turismooriental.ec/</a><br>
+              <span class="font-weight-bold">Facebook: </span><a href="https://es-la.facebook.com/TurismoOriental/">https://es-la.facebook.com/TurismoOriental/</a><br>
           </blockquote>
            </v-flex>   
           <v-flex text-xs-center xs12 class="text-left" mt-5>
-            <span class="title">Rutas desde Lago Agrio de la cooperativa de transporte Zaracay: </span>
+            <span class="title">Rutas desde Gualaquiza de la cooperativa Turismo Oriental: </span>
             <blockquote class="blockquote mx-0 px-0 mb-2">
-              Lago Agrio - Santo Domingo - Quinindé - La Concordia <br/>
-              Lago Agrio - Santo Domingo - Chone - Manta <br/>
-              Lago Agrio - Santo Domingo - Quevedo - Guayaquil
+              Gualaquiza - Cuenca
+            </blockquote>
+            </v-flex> 
+                        </v-flex> 
+            <v-flex xs12 my-3><v-divider></v-divider></v-flex>
+
+           <v-flex text-xs-center xs12 class="text-left" mt-5>
+            <router-link to="/search/schedule/unionyantzaza?name=Unión%20Yantzaza">
+            <span class="headline font-weight-bold">Unión Yantzaza</span>
+          </router-link>
+          </v-flex>    
+          <v-flex text-xs-center xs12 class="text-left">
+            <span class="title">Datos de contacto de la cooperativa Unión Yantzaza</span>
+          </v-flex>    
+          <v-flex xs12>
+            <blockquote class="blockquote mx-0 px-0 mb-2">
+              <span class="font-weight-bold">Facebook: </span><a href=" https://www.facebook.com/CooperativaDeTransporteUnionYantzaza/"> https://www.facebook.com/CooperativaDeTransporteUnionYantzaza/</a><br>
+          </blockquote>
+           </v-flex>   
+          <v-flex text-xs-center xs12 class="text-left" mt-5>
+            <span class="title">Rutas desde Gualaquiza de la cooperativa Unión Yantzaza: </span>
+            <blockquote class="blockquote mx-0 px-0 mb-2">
+              Gualaquiza - Loja
             </blockquote>
             </v-flex> 
           <v-flex xs12>
@@ -280,10 +282,10 @@
           <v-flex xs12 my-3><v-divider></v-divider></v-flex>
 
           <v-flex text-xs-center xs12 class="text-left">
-            <span class="headline font-weight-bold">Servicios que presta el Terminal terrestre de Lago Agrio</span>
+            <span class="headline font-weight-bold">Servicios que presta el Terminal terrestre de Gualaquiza</span>
           </v-flex>   
             <v-flex xs12 class="blockquote">
-            Entre los servicios que puedes disfrutar en el Terminal de Lago Agrio podrás encontrar:
+            Entre los servicios que puedes disfrutar en el Terminal de Gualaquiza podrás encontrar:
             </v-flex>
             <v-flex text-xs-center xs12 class="text-left">
             <span class="title">Servicios de transporte</span>
@@ -294,7 +296,6 @@
                 <li>Viajes intercantonales</li>
                 <li>Viajes interprovinciales</li>
                 <li>Taxi</li>
-                <li>Servicio de transporte urbano</li>
               </ul>
           </v-flex> 
          <v-flex xs12 class="blockquote">
