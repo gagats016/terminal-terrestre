@@ -5,27 +5,19 @@
       <v-container fill-height style="max-width: 850px !important">
         <v-layout row wrap justify-center class="container-lg">
           <v-flex text-xs-center xs12 mt-5 class="text-center">
-            <span class="display-2 secondary--text font-weight-bold">Terminal terrestre de Francisco de Orellana, El Coca</span>
+            <span class="display-2 secondary--text font-weight-bold">Terminal terrestre de Lago Agrio</span>
           </v-flex>
           <v-flex xs12 m12 mt-5>
             <blockquote class="blockquote mx-0 px-0 mb-2">
-              ¿Necesitas saber el horario completo de salida de los buses del Terminal de Francisco de Orellana? Buscarfly les presenta un listado completo de los destinos y frecuencias de las diferentes cooperativas de transporte que prestan sus servicios en el Terminal Terrestre El Coca.<br/>
-              En el terminal terrestre de Francisco de Orellana, en la actualidad, existen 13 cooperativas de transporte. Desde el terminal se puede tomar buses interparroquiales o interprovinciales y así, ir de El Coca a Quito o de El Coca o a Guayaquil. 
+              ¿Necesitas saber el horario completo de salida de los buses del Terminal de Lago Agrio? Buscarfly les presenta un listado completo de los destinos y frecuencias de las diferentes cooperativas de transporte que prestan sus servicios en el Terminal Terrestre de Nueva Loja.<br/>
+              En el terminal terrestre de Nueva Loja, en la actualidad, existen 10 cooperativas de transporte. Desde el terminal se puede tomar buses interparroquiales o interprovinciales y así, ir de Lago Agrio a Quito o de Lago Agrio a Guayaquil. 
             </blockquote>
           </v-flex>   
 <!--            <v-flex xs12 md6 pl-4>
               <img width="100%" src="~/static/img/terminal-terrestre/terminal-terrestre-lago-agrio.jpg" style="border-radius: 50%"></img>
-           </v-flex> -->   
-            <v-flex text-xs-center xs12  class="text-left" mt-5>
-            <span class="headline font-weight-bold">Datos de Contacto Terminal Terrestre de Francisco de Orellana</span>
-          </v-flex>  
-          <v-flex xs12>
-            <blockquote class="blockquote mx-0 px-0 mb-2">
-              <span class="font-weight-bold">Teléfono: </span>(593) 979 270 683<br/>
-              <span class="font-weight-bold">Facebook: </span><a href="https://www.facebook.com/TerminalCoca/?rf=380139382063192">https://www.facebook.com/TerminalCoca/?rf=380139382063192</a><br>
-            </blockquote>              
+           </v-flex> -->                 
           <v-flex text-xs-center xs12  class="text-left" mt-5>
-            <span class="headline font-weight-bold">Ubicación del terminal El Coca</span>
+            <span class="headline font-weight-bold">Ubicación del terminal de Lago Agrio</span>
           </v-flex>  
           <v-flex xs12>
             <blockquote class="blockquote mx-0 px-0 mb-2">
@@ -33,48 +25,23 @@
             </blockquote>
           </v-flex>  
           <v-flex text-xs-center xs12  class="text-left" mt-5>
-            <span class="headline font-weight-bold">¿Cómo llegar al terminal terrestre de Francisco de Orellana?</span>
+            <span class="headline font-weight-bold">¿Cómo llegar al terminal terrestre de Lago Agrio?</span>
           </v-flex>  
           <v-flex xs12>
             <blockquote class="blockquote mx-0 px-0 mb-2">
-              Llegar al terminal terrestre del Coca es fácil puesto que Francisco de Orellana no es una ciudad muy grande y sus lugares se encuentran en distancias cercanas.
-              Puede llegar a pie desde cualquier punto de la ciudad.</br>
-              Puede llegar en bus: Hay varias líneas como la de Gran Sumaco y Huaoranis que se pueden tomar y el costo del pasaje es de $0,30 ctvs. </br>
-              Puede llegar también en taxi: Es posible tomar un taxi desde cualquier punto de la ciudad, por lo tanto, su tarifa varía de acuerdo con la distancia.
+              Llegar al terminal terrestre de Nueva Loja es fácil puesto que Nueva Loja no es una ciudad muy grande y sus lugares se encuentran en distancias cercanas.<br/>
+              Puede llegar a pie, bus urbano o también en taxi, es posible tomar un taxi desde cualquier punto de la ciudad, por lo tanto, su tarifa varía de acuerdo con la distancia. 
             </blockquote>
           </v-flex>       
           <v-flex text-xs-center xs12  class="text-left" mt-5>
-            <span class="headline font-weight-bold">Destinos, frecuencias, y datos de las cooperativas de transporte del terminal El Coca</span>
+            <span class="headline font-weight-bold">Destinos, frecuencias, y datos de las cooperativas de transporte del terminal Lago Agrio</span>
           </v-flex>  
           <v-flex xs12>
             <blockquote class="blockquote mx-0 px-0 mb-2">
-              A continuación, le presentaremos todas las cooperativas de transporte del terminal El Coca, así que sus destinos y frecuencias (haga clic sobre la cooperativa para que aparezca sus horarios/turnos de salida de buses).
+              A continuación, le presentaremos todas las cooperativas de transporte del terminal Lago Agrio, así que sus destinos y frecuencias (haga clic sobre la cooperativa para que aparezca sus horarios/turnos de salida de buses).
             </blockquote>
           </v-flex>                          
           <v-flex text-xs-center xs12 class="text-left" mt-5>
-
-            <span class="headline font-weight-bold">Alejandro Labaka</span>
-          </v-flex>    
-          <v-flex text-xs-center xs12 class="text-left">
-            <span class="title">Datos de contacto de la cooperativa Alejandro Labaka</span>
-          </v-flex>    
-          <v-flex xs12>
-            <blockquote class="blockquote mx-0 px-0 mb-2">
-              <span class="font-weight-bold">Facebook: </span><a href="https://www.facebook.com/companiadetransportesmons.alejandrolabaka">https://www.facebook.com/companiadetransportesmons.alejandrolabaka</a><br>
-          </blockquote>
-           </v-flex>   
-          <v-flex text-xs-center xs12 class="text-left" mt-5>
-            <span class="title">Rutas desde El Coca de la cooperativa Alejandro Labaka: </span>
-            <blockquote class="blockquote mx-0 px-0 mb-2">
-              El Coca - La joya de los Sachas</br>
-              El Coca - Lago Agrio</br>
-              El Coca - Limoncocha</br>
-              El Coca - Porvenir</br>
-              El Coca - San Pablo
-            </blockquote>
-          </v-flex> 
-          <v-flex xs12 my-3><v-divider></v-divider></v-flex> 
-
             <router-link to="/search/schedule/banos?name=Baños">
             <span class="headline font-weight-bold">Baños</span>
           </router-link>
@@ -84,89 +51,57 @@
           </v-flex>    
           <v-flex xs12>
             <blockquote class="blockquote mx-0 px-0 mb-2">
-              <span class="font-weight-bold">Teléfono: </span>03 392 - 0215 ext. 4106 / 4107 / 4108 / 4109<br>
+              <span class="font-weight-bold">Teléfono: </span> 03 392 - 0215 ext. 4113  0986520213<br/>
+              
               <span class="font-weight-bold">Página web: </span><a href="http://www.cooperativabanos.com.ec">http://www.cooperativabanos.com.ec/</a><br>
-              <span class="font-weight-bold">Facebook: </span><a href="https://www.facebook.com/cooperativadetransportesbanos">https://www.facebook.com/cooperativadetransportesbanos/</a><br>
+
+              <span class="font-weight-bold">Facebook: </span><a href="https://www.facebook.com/cooperativadetransportesbanos">https://www.facebook.com/cooperativadetransportesbanos/</a><br>              
+              
                <span class="font-weight-bold">Correo electrónico: </span>info@cooperativabanos.com.ec
           </blockquote>
            </v-flex>   
+
           <v-flex text-xs-center xs12 class="text-left" mt-5>
-            <span class="title">Rutas desde El Coca de la cooperativa Baños: </span>
+            <span class="title">Rutas desde Lago Agrio de la cooperativa de transporte Baños: </span>
             <blockquote class="blockquote mx-0 px-0 mb-2">
-              El Coca - Loreto - Quito Quitumbe</br>
-              El Coca - Lago Agrio - Quito Quitumbe  
+              Lago Agrio - Quito Quitumbe </br>
+              Lago Agrio - Quito Carcelén - Quito Quitumbe 
             </blockquote>
           </v-flex> 
           <v-flex xs12 my-3><v-divider></v-divider></v-flex> 
-
         <v-flex text-xs-center xs12 class="text-left">
-            <span class="headline font-weight-bold">Ciudad del Coca</span>
-        </v-flex>   
-          <v-flex text-xs-center xs12 class="text-left">
-            <span class="title">Datos de contacto de la cooperativa Ciudad del Coca</span>
-          </v-flex> 
-          <v-flex xs12>    
-            <blockquote class="blockquote mx-0 px-0 mb-2">
-              Sin información.
-            </blockquote>
-          </v-flex>
-          <v-flex text-xs-center xs12 class="text-left">
-            <span class="title">Rutas desde El Coca de la cooperativa Ciudad del Coca: </span>
-            <blockquote class="blockquote mx-0 px-0 mb-2">
-            El Coca - Tena</br>
-            </blockquote>
-          </v-flex>    
-         <v-flex xs12 my-3><v-divider></v-divider></v-flex> 
-
-        <v-flex text-xs-center xs12 class="text-left">
-            <router-link to="/search/schedule/eldorado?name=El%20Dorado">
-            <span class="headline font-weight-bold">El Dorado</span>
+            <router-link to="/search/schedule/carlosalbertoaray?name=Carlos%20Alberto%20Aray">
+            <span class="headline font-weight-bold">Carlos Alberto Aray</span>
           </router-link>
         </v-flex>    
           <v-flex text-xs-center xs12 class="text-left">
-            <span class="title">Datos de contacto de la cooperativa El Dorado</span>
+            <span class="title">Datos de contacto de la cooperativa Carlos Alberto Aray</span>
           </v-flex>    
           <v-flex xs12>
-            <blockquote class="blockquote mx-0 px-0 mb-2">              
-              <span class="font-weight-bold">Facebook:</span><a href="https://www.facebook.com/CooperativaDeTransportesElDorado/">https://www.facebook.com/CooperativaDeTransportesElDorado/</a><br>              
+            <blockquote class="blockquote mx-0 px-0 mb-2">
+              <span class="font-weight-bold">Teléfono: </span>0990698101<br/>
+              
+
+              <span class="font-weight-bold">Facebook:</span><a href="https://www.facebook.com/Transportes-de-Pasajeros-y-Encomiendas-Carlos-Alberto-Aray-101399428292118/">https://www.facebook.com/Transportes-de-Pasajeros-y-Encomiendas-Carlos-Alberto-Aray-101399428292118/</a><br>              
+              
           </blockquote>
            </v-flex>    
           <v-flex text-xs-center xs12 class="text-left">
-            <span class="title">Rutas desde El Coca de la cooperativa El Dorado: </span>
+            <span class="title">Rutas desde Lago Agrio de la cooperativa de transporte Carlos Alberto Aray: </span>
             <blockquote class="blockquote mx-0 px-0 mb-2">
-            El Coca - Ambato</br>
-            El Coca - Chillanes
+            Lago Agrio - Manta
             </blockquote>
-          </v-flex>   
+          </v-flex>  
+          <v-flex xs12 my-3><v-divider></v-divider></v-flex> 
+        <v-flex text-xs-center xs12 class="text-left">
+            <span class="headline font-weight-bold">Ciudad del Coca</span>
+        </v-flex>    
+            <blockquote class="blockquote mx-0 px-0 mb-2">
+              Sin información.
+            </blockquote>
+          </v-flex>  
          <v-flex xs12 my-3><v-divider></v-divider></v-flex> 
-
-          <v-flex text-xs-center xs12 class="text-left" mt-5>
-            <router-link to="/search/schedule/flotapelileo?name=Flota%20Pelileo">
-            <span class="headline font-weight-bold">Flota Pelileo</span>
-          </router-link>
-          </v-flex>    
-          <v-flex text-xs-center xs12 class="text-left">
-            <span class="title">Datos de contacto de la cooperativa Flota Pelileo</span>
-          </v-flex>    
-          <v-flex xs12>
-            <blockquote class="blockquote mx-0 px-0 mb-2">
-              <span class="font-weight-bold">Teléfono: </span>0623700260<br>
-              <span class="font-weight-bold">Página web: </span><a href="http://www.flotapelileo.com.ec/">http://www.flotapelileo.com.ec/</a><br>
-              <span class="font-weight-bold">Facebook: </span><a href="https://es-la.facebook.com/pages/category/Transportation-Service/FLOTA-PELILEO-03-189393681657647/"> https://es-la.facebook.com/pages/category/Transportation-Service/FLOTA-PELILEO-03-189393681657647/</a><br>              
-          </blockquote>
-           </v-flex>   
-          <v-flex text-xs-center xs12 class="text-left" mt-5>
-            <span class="title">Rutas desde El Coca de la cooperativa Flota Pelileo: </span>
-            <blockquote class="blockquote mx-0 px-0 mb-2">
-              El Coca - Ambato</br>
-              El Coca - Guayaquil</br>
-              El Coca - Puyo</br>
-              El Coca - Tena
-            </blockquote>
-            </v-flex> 
-            <v-flex xs12 my-3><v-divider></v-divider></v-flex>
-
-          <v-flex text-xs-center xs12 class="text-left" mt-5>
+                  <v-flex text-xs-center xs12 class="text-left" mt-5>
             <router-link to="/search/schedule/jumandy?name=Jumandy">
             <span class="headline font-weight-bold">Jumandy</span>
           </router-link>
@@ -176,19 +111,22 @@
           </v-flex>    
           <v-flex xs12>
             <blockquote class="blockquote mx-0 px-0 mb-2">
+              
               <span class="font-weight-bold">Página web: </span><a href="https://coopjumandy.webs.com/rutas">https://coopjumandy.webs.com/rutas</a><br>
+
               <span class="font-weight-bold">Facebook: </span><a href="https://www.facebook.com/coopjumandy.jumandy">https://www.facebook.com/coopjumandy.jumandy/</a><br>              
+              
           </blockquote>
            </v-flex>   
+
           <v-flex text-xs-center xs12 class="text-left" mt-5>
-            <span class="title">Rutas desde El Coca de la cooperativa Jumandy: </span>
+            <span class="title">Rutas desde Lago Agrio de la cooperativa de transporte Jumandy: </span>
             <blockquote class="blockquote mx-0 px-0 mb-2">
-              El Coca - Puyo</br>
-              El Coca - Tena
+              Lago Agrio - Tena </br>
+              Lago Agrio - Puyo
             </blockquote>
             </v-flex> 
-            <v-flex xs12 my-3><v-divider></v-divider></v-flex>
-
+            <v-flex xs12 my-3><v-divider></v-divider></v-flex> 
            <v-flex text-xs-center xs12 class="text-left" mt-5>
             <router-link to="/search/schedule/loja?name=Loja">
             <span class="headline font-weight-bold">Loja</span>
@@ -199,20 +137,25 @@
           </v-flex>    
           <v-flex xs12>
             <blockquote class="blockquote mx-0 px-0 mb-2">
-              <span class="font-weight-bold">Teléfono: </span>063068804<br/>    
+              <span class="font-weight-bold">Teléfono: </span>062831570<br/>
+              
               <span class="font-weight-bold">Página web: </span><a href="https://cooperativaloja.com.ec/">https://cooperativaloja.com.ec/</a><br>
-              <span class="font-weight-bold">Facebook: </span><a href="https://www.facebook.com/CoopLoja/">https://www.facebook.com/CoopLoja//</a><br>                           
+
+              <span class="font-weight-bold">Facebook: </span><a href="https://www.facebook.com/CoopLoja/">https://www.facebook.com/CoopLoja//</a><br>             
+              
           </blockquote>
            </v-flex>   
+
           <v-flex text-xs-center xs12 class="text-left" mt-5>
-            <span class="title">Rutas desde El Coca de la cooperativa de transporte Loja: </span>
+            <span class="title">Rutas desde Lago Agrio de la cooperativa de transporte Loja: </span>
             <blockquote class="blockquote mx-0 px-0 mb-2">
-              El Coca - Santo Domingo - Quevedo - Machala - Loja</br>
-              El Coca - Lago Agrio - Quito Quitumbe
+              Lago Agrio - Loja </br>
+              Lago Agrio - Quito Quitumbe </br>
+              Lago Agrio - Guayaquil
             </blockquote>
             </v-flex> 
-           <v-flex xs12 my-3><v-divider></v-divider></v-flex>
 
+           <v-flex xs12 my-3><v-divider></v-divider></v-flex>
           <v-flex text-xs-center xs12 class="text-left" mt-5>
             <router-link to="/search/schedule/petrolerashushufindi?name=Petrolera%20Shushufindi">
             <span class="headline font-weight-bold">Petrolera Shushufindi</span>
@@ -223,20 +166,20 @@
           </v-flex>    
           <v-flex xs12>
             <blockquote class="blockquote mx-0 px-0 mb-2">
-              <span class="font-weight-bold">Teléfono: </span>062839210 / 062839129<br/>              
-              <span class="font-weight-bold">Facebook: </span><a href="https://www.facebook.com/petrolerashushufindi/">https://www.facebook.com/petrolerashushufindi/</a><br>              
+              <span class="font-weight-bold">Teléfono: </span>062839210 / 062839129 <br/>
+              
+              <span class="font-weight-bold">Facebook: </span><a href="https://www.facebook.com/petrolerashushufindi/">https://www.facebook.com/petrolerashushufindi/</a><br>             
+              
           </blockquote>
            </v-flex>   
           <v-flex text-xs-center xs12 class="text-left" mt-5>
-            <span class="title">Rutas desde El Coca de la cooperativa Petrolera Shushufindi: </span>
+            <span class="title">Rutas desde Lago Agrio de la cooperativa de transporte Petrolera Shushufindi: </span>
             <blockquote class="blockquote mx-0 px-0 mb-2">
-              El Coca - Lago Agrio </br>
-              El Coca - Shushufindi </br>
-              El Coca - Tulcán
+              Lago Agrio - Sacha - Coca </br>
+              Lago Agrio - Puerto El Carmen
             </blockquote>
             </v-flex> 
          <v-flex xs12 my-3><v-divider></v-divider></v-flex>
-
            <v-flex text-xs-center xs12 class="text-left" mt-5>
             <router-link to="/search/schedule/putumayo?name=Putumayo">
             <span class="headline font-weight-bold">Putumayo</span>
@@ -247,19 +190,21 @@
           </v-flex>    
           <v-flex xs12>
             <blockquote class="blockquote mx-0 px-0 mb-2">
-              <span class="font-weight-bold">Teléfono: </span>3700660 ext. 2002<br/>
+              <span class="font-weight-bold">Teléfono: </span>062-833-819<br/>
+
               <span class="font-weight-bold">Facebook: </span><a href="https://www.facebook.com/pages/category/Cargo---Freight-Company/Cooperativa-de-Transportes-Putumayo-481755651878556/">https://www.facebook.com/pages/category/Cargo---Freight-Company/Cooperativa-de-Transportes-Putumayo-481755651878556//</a><br>             
-              <span class="font-weight-bold">Correo electrónico: </span>coop.putumayo@hotmail.com
+                             <span class="font-weight-bold">Correo electrónico: </span>coop.putumayo@hotmail.com
           </blockquote>
            </v-flex>   
           <v-flex text-xs-center xs12 class="text-left" mt-5>
-            <span class="title">Rutas desde El Coca de la cooperativa Putumayo: </span>
+            <span class="title">Rutas desde Lago Agrio de la cooperativa de transporte Putumayo: </span>
             <blockquote class="blockquote mx-0 px-0 mb-2">
-              El Coca Sacha Lago Agrio Carcelén
+              Lago Agrio - Otavalo  - Ibarra - Tulcán </br>
+              Lago Agrio - Quito Carcelén </br>
+              Lago Agrio - Tena
             </blockquote>
             </v-flex> 
            <v-flex xs12 my-3><v-divider></v-divider></v-flex>
-
            <v-flex text-xs-center xs12 class="text-left" mt-5>
             <router-link to="/search/schedule/tourissanfrancisco?name=Touris%20San%20Francisco">
             <span class="headline font-weight-bold">Touris San Francisco</span>
@@ -270,19 +215,18 @@
           </v-flex>    
           <v-flex xs12>
             <blockquote class="blockquote mx-0 px-0 mb-2">
-              <span class="font-weight-bold">Teléfono: </span>060368803<br/>
+              <span class="font-weight-bold">Teléfono: </span>062831211<br/>
               <span class="font-weight-bold">Página web: </span><a href="https://www.tourisanfrancisco.com/">https://www.tourisanfrancisco.com/</a><br>
               <span class="font-weight-bold">Facebook: </span><a href=" https://es-la.facebook.com/tourisanfrancisco/"> https://es-la.facebook.com/tourisanfrancisco/</a><br>
           </blockquote>
            </v-flex>   
           <v-flex text-xs-center xs12 class="text-left" mt-5>
-            <span class="title">Rutas desde El Coca de la cooperativa Touris San Francisco: </span>
+            <span class="title">Rutas desde Lago Agrio de la cooperativa de transporte Touris San Francisco: </span>
             <blockquote class="blockquote mx-0 px-0 mb-2">
-              El Coca - Tena - Puyo - Ambato
+              Lago Agrio - Zamora
             </blockquote>
             </v-flex> 
           <v-flex xs12 my-3><v-divider></v-divider></v-flex>
-
            <v-flex text-xs-center xs12 class="text-left" mt-5>
             <router-link to="/search/schedule/transesmeraldas?name=Transesmeraldas">
             <span class="headline font-weight-bold">Transesmeraldas</span>
@@ -293,38 +237,18 @@
           </v-flex>    
           <v-flex xs12>
             <blockquote class="blockquote mx-0 px-0 mb-2">
-              <span class="font-weight-bold">Teléfono: </span>6 3 700 260<br/>
+              <span class="font-weight-bold">Teléfono: </span>+593 23922300 ext. 475<br/>
               <span class="font-weight-bold">Página web: </span><a href="https://www.transesmeraldas.com/">https://www.transesmeraldas.com/</a><br>
               <span class="font-weight-bold">Facebook: </span><a href="https://www.facebook.com/transesmeraldas/"> https://www.facebook.com/transesmeraldas/</a><br>
           </blockquote>
            </v-flex>   
           <v-flex text-xs-center xs12 class="text-left" mt-5>
-            <span class="title">Rutas desde El Cocao de la cooperativa Transesmeraldas: </span>
+            <span class="title">Rutas desde Lago Agrio de la cooperativa de transporte Transesmeraldas: </span>
             <blockquote class="blockquote mx-0 px-0 mb-2">
-              El Coca - Quito Carcelén - Quito Quitumbe
+              Lago Agrio - Quito Carcelén - Quito Quitumbe
             </blockquote>
             </v-flex> 
             <v-flex xs12 my-3><v-divider></v-divider></v-flex>
-
-           <v-flex text-xs-center xs12 class="text-left" mt-5>
-            <span class="headline font-weight-bold">Valle del Quijos</span>
-          </v-flex>    
-          <v-flex text-xs-center xs12 class="text-left">
-            <span class="title">Datos de contacto de la cooperativa Valle del Quijos</span>
-          </v-flex>    
-          <v-flex xs12>
-            <blockquote class="blockquote mx-0 px-0 mb-2">
-              <span class="font-weight-bold">Teléfono: </span>06 2858222<br/>
-          </blockquote>
-           </v-flex>   
-          <v-flex text-xs-center xs12 class="text-left" mt-5>
-            <span class="title">Rutas desde El Coca de la cooperativa Valle del Quijos: </span>
-            <blockquote class="blockquote mx-0 px-0 mb-2">
-              El Coca - Tena
-            </blockquote>
-            </v-flex> 
-            <v-flex xs12 my-3><v-divider></v-divider></v-flex>
-
            <v-flex text-xs-center xs12 class="text-left" mt-5>
             <router-link to="/search/schedule/zaracay?name=Zaracay">
             <span class="headline font-weight-bold">Zaracay</span>
@@ -335,17 +259,17 @@
           </v-flex>    
           <v-flex xs12>
             <blockquote class="blockquote mx-0 px-0 mb-2">
-              <span class="font-weight-bold">Teléfono: </span>063068434<br/>
+              <span class="font-weight-bold">Teléfono: </span>062830681<br/>
               <span class="font-weight-bold">Página web: </span><a href="http://www.transporteszaracay.com.ec/">http://www.transporteszaracay.com.ec/</a><br>
               <span class="font-weight-bold">Facebook: </span><a href="https://es-la.facebook.com/oficialtransporteszaracay/"> https://es-la.facebook.com/oficialtransporteszaracay/</a><br>
           </blockquote>
            </v-flex>   
           <v-flex text-xs-center xs12 class="text-left" mt-5>
-            <span class="title">Rutas desde El Coca de la cooperativa Zaracay: </span>
+            <span class="title">Rutas desde Lago Agrio de la cooperativa de transporte Zaracay: </span>
             <blockquote class="blockquote mx-0 px-0 mb-2">
-              El Coca - Lago Agrio - Chone - Portoviejo - Manta<br/>
-              El Coca - Lago Agrio - Santo Domingo - Quevedo - Guayaquil<br/>
-              El Coca - Loreto - Santo Domingo - Quevedo - Guayaquil
+              Lago Agrio - Santo Domingo - Quinindé - La Concordia <br/>
+              Lago Agrio - Santo Domingo - Chone - Manta <br/>
+              Lago Agrio - Santo Domingo - Quevedo - Guayaquil
             </blockquote>
             </v-flex> 
           <v-flex xs12>
@@ -356,10 +280,10 @@
           <v-flex xs12 my-3><v-divider></v-divider></v-flex>
 
           <v-flex text-xs-center xs12 class="text-left">
-            <span class="headline font-weight-bold">Servicios que presta el Terminal terrestre El Coca</span>
+            <span class="headline font-weight-bold">Servicios que presta el Terminal terrestre de Lago Agrio</span>
           </v-flex>   
             <v-flex xs12 class="blockquote">
-            Entre los servicios que puedes disfrutar en el Terminal de El Coca podrás encontrar:
+            Entre los servicios que puedes disfrutar en el Terminal de Lago Agrio podrás encontrar:
             </v-flex>
             <v-flex text-xs-center xs12 class="text-left">
             <span class="title">Servicios de transporte</span>

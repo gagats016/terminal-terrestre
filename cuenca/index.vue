@@ -29,16 +29,16 @@
           </v-flex>  
           <v-flex xs12>
             <blockquote class="blockquote mx-0 px-0 mb-2">
-              El terminal Carcelén, estando lejos del centro histórico, no es recomendado ir a pie, pero se puede llegar con facilidad en transporte público, tal como en bus urbano con las lineas : Terminal Carcelén - Terminal Norte, Terminal La Ofelia - Terminal Carcelén, Terminal Río Coca  -  Eloy Alfaro - Carapungo; el pasaje de bus tiene un costo de 0,25$.<br/>
-              También se puede llegar en carro, que sea particular o en taxi. 
+              El terminal de Cuenca, no se encuentra muy lejos del centro histórico, po eso que puede llegar a pie con facilidad. Además, se puede llegar en transporte público, tal como en bus urbano con las lineas 7, 8, 10 y 28 ; el pasaje de bus tiene un costo de 0,30$. Así mismo, puede llegar en tranvía con un precio de 0,30$.<br/>
+              También se puede llegar en carro, que sea particular o en taxi. La carrera mínima de taxi de día es de 1,37$ y de noche de 1,67$. 
             </blockquote>
           </v-flex>       
           <v-flex text-xs-center xs12  class="text-left" mt-5>
-            <span class="headline font-weight-bold">Destinos, frecuencias, y datos de las cooperativas de transporte del terminal Quito Carcelén</span>
+            <span class="headline font-weight-bold">Destinos, frecuencias, y datos de las cooperativas de transporte del terminal Cuenca</span>
           </v-flex>  
           <v-flex xs12>
             <blockquote class="blockquote mx-0 px-0 mb-2">
-              A continuación, le presentaremos todas las cooperativas de transporte del terminal Quito Carcelén, así que sus destinos y frecuencias (haga clic sobre la cooperativa para que aparezca sus horarios/turnos de salida de buses).
+              A continuación, le presentaremos todas las cooperativas de transporte del terminal Cuenca, así que sus destinos y frecuencias (haga clic sobre la cooperativa para que aparezca sus horarios/turnos de salida de buses).
             </blockquote>
           </v-flex> 
           <v-flex text-xs-center xs12 class="text-left" mt-5>
@@ -53,7 +53,6 @@
             <blockquote class="blockquote mx-0 px-0 mb-2">
               <span class="font-weight-bold">Teléfono: </span>07-2838703<br/>
               <span class="font-weight-bold">Página web: </span><a href="https://www.cooperativa16deagosto.com/">https://www.cooperativa16deagosto.com/</a><br>
-
               <span class="font-weight-bold">Facebook: </span><a href="https://www.facebook.com/coop16deagosto/">https://www.facebook.com/coop16deagosto/</a><br>              
               
                <span class="font-weight-bold">Correo electrónico: </span>cooperativa16deagosto@hotmail.com
@@ -502,9 +501,9 @@
           <v-flex text-xs-center xs12 class="text-left" mt-5>
             <span class="title">Rutas desde Cuenca de la cooperativa Loja: </span>
             <blockquote class="blockquote mx-0 px-0 mb-2">
-              Cuenca - Loja 
+              Cuenca - Loja <br>
               Cuenca – Shushufindi<br>
-              Cuenca – Lago Agrio<br>
+              Cuenca – Lago Agrio
             </blockquote>
             </v-flex> 
          <v-flex xs12 my-3><v-divider></v-divider></v-flex>
@@ -537,7 +536,7 @@
          <v-flex xs12 my-3><v-divider></v-divider></v-flex>
 
           <v-flex text-xs-center xs12 class="text-left" mt-5>
-            <router-link to="/search/schedule/occidentales?name=Occidentales">
+            <router-link to="/search/schedule/nabon?name=Nabón">
             <span class="headline font-weight-bold">Nabón</span>
           </router-link>
           </v-flex>    
